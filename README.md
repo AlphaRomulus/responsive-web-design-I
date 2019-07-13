@@ -31,4 +31,7 @@ Follow these steps for completing your project.
 * [ ] Once you have completed the project with max-width media queries, start over with min-width media queries to get a feel for how a mobile first approach would be like.  I recommend making a copy of all your contents in a new folder named "mobile-first" to keep it separate
 
 
+## Completed Extended Git Training On 7/13/2019 With Roman
+
+
 
